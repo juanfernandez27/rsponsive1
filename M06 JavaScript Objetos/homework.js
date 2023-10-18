@@ -21,7 +21,7 @@ function agregarPropiedad(objeto, propiedad) {
    // Debes agregarle una propiedad con el nombre recibido por parámetro.
    // Esta propiedad será igual al valor `null`.
    // Retornar el objeto.
-   // Tu código:
+   // Tu código:ryryreyreyreyreyre
 }
 
 function invocarMetodo(objeto, metodo) {

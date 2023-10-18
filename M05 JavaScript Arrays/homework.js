@@ -3,6 +3,8 @@
 function devolverPrimerElemento(array) {
    // Retornar el primer elemento del arreglo recibido por parámetro.
    // Tu código:
+   //djfdngdngkdg
+   //fkgfkhmfkhmkfmhkfmhkfkfmhkfmhkfmk
 }
 
 function devolverUltimoElemento(array) {
